@@ -1,0 +1,13 @@
+D:\Project_C#\Lab12\bin\Debug\Lab12.exe.config
+D:\Project_C#\Lab12\bin\Debug\Lab12.exe
+D:\Project_C#\Lab12\bin\Debug\Lab12.pdb
+D:\Project_C#\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+D:\Project_C#\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+D:\Project_C#\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+D:\Project_C#\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+D:\Project_C#\Lab12\obj\Debug\Lab12.exe
+D:\Project_C#\Lab12\obj\Debug\Lab12.pdb
+D:\Project_C#\Lab12\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Project_C#\Lab12\bin\Debug\stdole.dll
+D:\Project_C#\Lab12\obj\Debug\Lab12.Form1.resources
+D:\Project_C#\Lab12\obj\Debug\Lab12.csproj.Up2Date
